@@ -1,3 +1,4 @@
+// array program 
 #include<stdio.h>
 int main(){
 	int arr[5]={1,2,3,4,5};
@@ -6,4 +7,5 @@ int main(){
 		j=j+i;
 	}
 	printf("%d",j);
+
 }
