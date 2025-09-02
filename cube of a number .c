@@ -1,3 +1,4 @@
+// cube of a number 
 #include<stdio.h>
 int main()
 {
@@ -6,4 +7,5 @@ int main()
 	scanf("%d",&num);
 	printf("the cube of that number is :%d",num*num*num);
 	return 0;
+
 }
